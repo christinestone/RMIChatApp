@@ -1,0 +1,6 @@
+[submodule "RMIChatSystemClient"]
+	path = RMIChatSystemClient
+	url = https://github.com/christinestone/RMIChatSystemClient.git
+[submodule "RMIChatSystemServer"]
+	path = RMIChatSystemServer
+	url = https://github.com/christinestone/RMIChatSystemServer.git
