@@ -8,4 +8,5 @@ public interface ChatServer extends Remote {
     void broadcast(String message) throws RemoteException;
     void privateMessage(String message, String user) throws RemoteException;
     ArrayList<String> listUsers() throws RemoteException;
+    void updateUsersList(String clientName) throws RemoteException;
 }
