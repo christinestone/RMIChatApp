@@ -10,8 +10,7 @@ There are three Java Projects associated with this application in total, each st
 	- all client code for GUI and console application
 	
 Instructions
-1. launch server (main method: StartServer.java)
-2. start a client (main method: ChatClientDriver.java)
-	- select GUI or console
-	- join chat by inputting unique username
+1. launch server (main method: StartChatServer.java)
+2. start a client (main method: StartChatClient.java)
+   - join chat by inputting unique username
 3. repeat 2 to add additional users
